@@ -44,3 +44,6 @@ Regular fat content items dominate sales.
 - Customer Segmentation: Include customer demographics for personalized insights.
 - Data Integration: Incorporate real-time data feeds for dynamic updates.
 
+# Summary
+The Blinkit Data Analysis project focuses on providing actionable insights into Blinkit’s sales performance, outlet operations, and customer trends using Power BI. The dashboard visualizes total sales, item type performance, outlet contributions, and customer ratings. Key findings include top-performing outlet tiers, sales trends by fat content, and outlet size contributions.
+
